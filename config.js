@@ -43,20 +43,20 @@ const CONFIG = {
     {
       id: '1',
       name: 'Reddit',
-      icon: 'reddit',
+      icon: 'glasses',
       link: 'https://old.reddit.com/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/ca/u/0/#all',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Ynet',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'http://www.ynet.co.il/',
     },
     {
       id: '4',
